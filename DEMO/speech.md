@@ -11,7 +11,7 @@ Before going further I'd like to show you a video about InMoov robot so you coul
 The concept of the robot is more or less straight-forward. It has a couple of micro-controllers connected to servo motors and sensors. Most the components are open source but it requires ordering some extra PCB units.
 
 # CONCEPTS 2
-Servo motors are connected to the printed parts via strings which allows the actual movement.
+Servo motors are connected to the printed parts which allows the actual movement.
 
 
 # FINGER STARTER
@@ -22,13 +22,13 @@ Also there is a finger starter available on the website and it says if you can b
 Good news is that we have already built the starter.
 
 # TEAM
-To build our own robot we gathered a team. Currently it's 9 people but the number may change. Mostly they are students from LNU but different faculties. So we have Computer Science, Physics, Design and Change students. We are meeting this week to brainstorm the details. The team members are very excited about building such a robot as well as I am.
+To build our own robot we gathered a team. Currently it's 9 people but the number may change. Mostly they are students from LNU but different faculties. So we have Computer Science, Physics, Design and Change students. We are meeting this week to brainstorm the details. The team is very excited about building such a robot as well as I am.
 
 # TIME PLAN
-The scedule hasn't yet set, but we are thinking about 2-4 hours a week probably during IT-Garden Open House meeting. Probably more hours during the summer. Our goal to finish the robot within a year. 
+The scedule hasn't yet set, but we are thinking about 2-4 hours a week probably during IT-Garden Open House meeting. Probably more hours during the summer. Our goal to finish the robot within 1 year. 
 
 # FACILITIES
-We are planning to build the robot in the Innovation Centre. We'd like to thank Videum for sponsoring the project and we will present the robot to Videum when the work is done.
+We are planning to build the robot in the Innovation Centre. We'd like to thank Videum for sponsoring the project and we would like to see the robot as a part of the Innovation Centre after the work is done.
 
 # CONCLUSION
 Without any doubts such a project is very chalenging. It requires proper planing, lots of work and learning along the way. But the outcome of the project hard to underestimate. And I am sure we will put another mark to the InMoove map and build our own robot.
