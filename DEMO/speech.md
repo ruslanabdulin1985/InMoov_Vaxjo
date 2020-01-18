@@ -4,7 +4,7 @@ However very few people in the entire Sweden dared to do so and we are going to 
 
 # VIDEO
 
-Before going further I'd like to show you a video about InMoov robot so you could understand what it is all about.
+Before going further I'd like to show you a video so you could understand what it is all about.
 
 
 # CONCEPTS 1
