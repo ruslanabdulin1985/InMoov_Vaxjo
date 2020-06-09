@@ -2,5 +2,7 @@
 
 * 229.00 kr**
 
+[Kopplingstråd flertrådig – sats 60m](https://www.electrokit.com/produkt/kopplingstrad-flertradig-sats-60m/)
 
+* 149.00 kr**
 
